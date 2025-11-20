@@ -21,6 +21,14 @@
 
 Fig: Simulation Circuit Diagram
 
+
+
+
+
+
+https://github.com/user-attachments/assets/e8a08b85-ef5e-49af-8ef4-9181254d9ef7
+
+
 **Source Code: **
 ```
 #include <Wire.h>
